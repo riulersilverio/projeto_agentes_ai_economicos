@@ -1,5 +1,5 @@
 # STREAMLIT
-streamlit==1.39.0
+streamlit>=1.39.0
 
 # MODELAGEM / LLMs
 openai>=1.40.0
@@ -8,9 +8,9 @@ langchain-openai>=0.1.0
 langchain-core>=0.2.0
 python-dotenv>=1.0.0
 
-# CREWAI (Atenção: exige Python 3.10+)
-crewai==0.51.1
-crewai-tools==0.4.0
+# CREWAI
+crewai>=0.51.0
+crewai-tools>=0.4.0
 
 # MANIPULAÇÃO DE DADOS
 pandas>=2.2.0
