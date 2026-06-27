@@ -1,80 +1,56 @@
-# Relatório de Investimento - Análise Macroeconômica e Recomendações de Ações
+```markdown
+# Relatório de Investimento - Cenário Macroeconômico e Indicações de Ações
 
 ## Sumário Executivo
-O Brasil se encontra em um cenário econômico misto, com sinais de recuperação, mas enfrentando incertezas inflacionárias e de políticas fiscais. A análise a seguir oferece uma visão sobre a trajetória recente dos principais indicadores e recomendações para o mercado de ações, auxiliando investidores na tomada de decisão em um ambiente volátil.
+Este relatório visa consolidar a análise do cenário macroeconômico brasileiro em 2026 e apresentar recomendações de ações baseadas nas condições económicas atuais. A combinação de uma pressão inflacionária crescente e a expectativa de alta nas taxas de juros, representadas pela Selic, delineia um quadro desafiador para investidores no Brasil. As recomendações de ações apresentadas visam proporcionar uma estratégia de investimento robusta diante deste contexto complexo.
 
 ## Análise do Cenário Macroeconômico
-O cenário macroeconômico brasileiro se apresenta com desafios e oportunidades. A seguir, são destacados os principais indicadores econômicos e suas implicações para o mercado:
+1. **Dólar**: O aumento gradual na cotação do dólar, passando de R$ 5,016 para R$ 5,2098, reflete a fragilidade das expectativas econômicas e pressões inflacionárias.
+   
+2. **IPCA**: A pressão inflacionária se intensificou, com previsões de IPCA em 4,55% para 2026, forçando o Banco Central a considerar ações mais drásticas na política monetária.
 
-1. **IPCA (Índice de Preços ao Consumidor Amplo)**: 
-   - Projectado em 5.33% para 2026, o aumento em relação a meses anteriores indica instabilidades nas pressões inflacionárias, sendo fundamental para as expectativas de juros e consumo.
+3. **PIB**: As projeções para o PIB sugerem um crescimento moderado de 1,98% em um ambiente marcado por incertezas.
 
-2. **PIB (Produto Interno Bruto)**:
-   - O leve crescimento do PIB, que foi de 1.04478 milhão em outubro de 2024 a 1.17269 milhões em março de 2026, reflete uma recuperação, porém com sinais de desaceleração que podem impactar o crescimento futuro.
+4. **Taxa Selic**: As expectativas indicam uma Selic em 13,25% ou mesmo 14% em um contexto de inflação crescente, afetando o custo do crédito.
 
-3. **Taxa Selic**:
-   - Manteve-se em 14.25% a partir de julho de 2026, com projeções sugerindo uma Selic de 14% para 2026, indicando a continuidade de uma política monetária rigorosa para o controle da inflação.
+5. **IGP-M**: O aumento no IGP-M de 5,63% para 5,91% sinaliza a pressão em setores como energia e commodities.
 
-4. **Dólar**:
-   - O valor do dólar se estabiliza em torno de R$5,20, mas sua volatilidade pode impactar as importações e o setor de exportação brasileiro.
-
-5. **IGP-M (Índice Geral de Preços do Mercado)**:
-   - Espera-se atingir 5.91% em 2026, refletindo uma inflação persistente que afeta os custos operacionais de diversas empresas.
-
-### Principais Notícias e Eventos de Investimento Relevantes
-- **Relatório Focus do Banco Central**: Sinaliza aumentos nas projeções de IPCA e Selic, refletindo as falhas nas políticas fiscais do governo.
-- **Políticas do governo Lula**: A pressão inflacionária pode derivar de políticas fiscais intensivas que impactam a Selic.
-- **Cenário Externo**: A política de juros em alta no Japão e a inflação na Zona do Euro afetam o otimismo do investidor brasileiro.
-- **Mercado de Ações**: Recuperação do IBOVESPA, com setores financeiros se destacando, mas incertezas nas ações de tecnologia podem influenciar o mercado.
+Esses dados demonstram um cenário inflacionário que requer vigilância de perto das políticas monetárias em desenvolvimento, refletindo diretamente nas expectativas de mercado e nas decisões de investimento.
 
 ## Indicações de Ações Detalhadas
-
 ### 1. **PETR4 (Petrobras)**
-- **Recomendação:** **MANUTENÇÃO**
-- **Justificativa:**
-  - A volatilidade do mercado e os escândalos passados continuam a impactar a reputação da Petrobras. O cenário financeiro atual requer cautela, mesmo com potencial de reservas descobertas.
-  - **Link:** [Investing.com Petrobras](https://br.investing.com/equities/petrobras-pn-news)
+   **Recomendação:** MANTER  
+   **Justificativa:** A Petrobras reportou aumento na demanda de combustíveis e lucros esperados estão em linha com as expectativas do mercado. Com o cenário de elevação na taxa Selic, a ação deve ser mantida para capitalizar na recuperação a longo prazo.
+   [Leia mais aqui](https://br.investing.com/equities/petrobras-pn).
 
-### 2. **VALE3 (Vale)**
-- **Recomendação:** **COMPRA**
-- **Justificativa:**
-  - A alta dos preços do minério de ferro e a expectativa de crescimento positivo destacam a Vale, que deve beneficiar-se com a recuperação do setor de mineração. O preço-alvo é atrativo e sustentável.
-  - **Link:** [Money Times Vale](https://www.moneytimes.com.br/cotacao/vale3/)
+### 2. **VALE3 (Vale S.A.)**
+   **Recomendação:** COMPRA  
+   **Justificativa:** A Vale se destaca no setor minerador, com expectativas de valorização de 10% até o final do ano. O preço-alvo está estipulado em R$ 83, combinado com um dividend yield atrativo de 6,34%. Pode representar uma escolha sólida em um ambiente de crescimento global.
+   [Leia mais aqui](https://br.investing.com/equities/vale-on-n1).
 
 ### 3. **ITUB4 (Itaú Unibanco)**
-- **Recomendação:** **COMPRA**
-- **Justificativa:**
-  - O Itaú se posiciona bem para tirar proveito do aumento nas taxas de juros, mantendo um sólido desempenho financeiro que atrai investidores. A recomendação é reforçada por expectativas positivas de análise de desempenho.
-  - **Link:** [Investing.com Itaú](https://br.investing.com/equities/itauunibanco-pn-edj-n1-news)
+   **Recomendação:** COMPRA  
+   **Justificativa:** Os resultados consistentes do Itaú e um lucro líquido robusto de R$ 12,28 bilhões no 1T26 sustentam uma perspectiva positiva. O preço-alvo é de R$ 48,38, oferecendo um bom upside mesmo em um contexto de alta de taxa de juros.
+   [Leia mais aqui](https://investidor10.com.br/acoes/itub4).
 
 ### 4. **BBDC4 (Bradesco)**
-- **Recomendação:** **VENDA**
-- **Justificativa:**
-  - O aumento nas taxas Selic pressiona a lucratividade do Bradesco, enquanto as incertezas do mercado sugerem um movimento cauteloso em relação a ações bancárias, justificando a venda.
-  - **Link:** [ADVFN Bradesco](https://br.advfn.com/bolsa-de-valores/bovespa/bradesco-pn-BBDC4/noticias)
+   **Recomendação:** VENDA  
+   **Justificativa:** O Bradesco tem enfrentado desafios significativos com um lucro líquido em queda de 49% t/t. A pressão regulatória e os custos crescentes indicam um ambiente desfavorável, recomendando a venda a curto prazo.
+   [Leia mais aqui](https://investidor10.com.br/acoes/bbdc4).
 
 ### 5. **HAPV3 (Hapvida)**
-- **Recomendação:** **MANTER**
-- **Justificativa:**
-  - Apesar da recuperação inicial, a Hapvida continua sob pressão de custos e resultados decepcionantes anteriores. A manutenção é prudente considerando os riscos presentes.
-  - **Link:** [Investing.com Hapvida](https://br.investing.com/equities/hapvida-participacoes-investimentos-news)
-
-### Resumo das Recomendações
-| Ticker | Ação          | Recomendação   |
-|--------|---------------|-----------------|
-| PETR4  | Petrobras     | MANUTENÇÃO      |
-| VALE3  | Vale          | COMPRA          |
-| ITUB4  | Itaú Unibanco | COMPRA          |
-| BBDC4  | Bradesco      | VENDA           |
-| HAPV3  | Hapvida       | MANTER          |
+   **Recomendação:** VENDA  
+   **Justificativa:** Com um desempenho negativo significativo e um aumento na sinistralidade, a Hapvida apresenta fracas expectativas de crescimento. A venda é recomendada para minimizar perdas potenciais.
+   [Leia mais aqui](https://investidor10.com.br/acoes/hapv3).
 
 ## Breves Considerações sobre Riscos e Oportunidades
-Os investidores devem estar cientes das incertezas políticas e econômicas que podem causar volatilidade no mercado. A flutuação da Selic e as pressões inflacionárias são riscos relevantes. Contudo, oportunidades se encontram em setores que podem se beneficiar de uma recuperação econômica moderada, especialmente nas commodities e serviços financeiros.
+O ambiente macroeconômico atual apresenta riscos substanciais, principalmente relacionados à inflação e aumento das taxas de juros. Setores mais sensíveis ao crédito podem sofrer, enquanto setores estratégicos, como energia e infraestrutura, podem oferecer oportunidades. Uma análise cuidadosa e contínua do mercado é imprescindível para navegar neste cenário volátil.
 
 ## Apêndice: Fontes de Dados
-- [Banco Central do Brasil](https://www.bcb.gov.br/appsrc/indices/indices.aspx)
-- [Investing.com](https://br.investing.com)
-- [Money Times](https://www.moneytimes.com.br)
-- [ADVFN](https://br.advfn.com)
+- Dados da Bolsa de Valores B3
+- Boletim Focus do Banco Central
+- Relatórios de análise de mercado de investimentos
+- Pesquisas online através de portais de notícias financeiras como CNN Brasil e Exame.
 
-Este relatório fornece uma visão abrangente da situação atual do mercado e suas implicações para investimentos, com recomendações específicas para o aproveitamento de oportunidades no Brasil.
+Este relatório visa fornecer uma visão clara e compreensível do cenário atual e auxiliar os investidores na formulação de suas estratégias.
+```
